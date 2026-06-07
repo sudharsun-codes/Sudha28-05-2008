@@ -2,11 +2,6 @@
 <h3 align="center">A passionate about Competitive Programming from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudha28-05-2008&label=Profile%20views&color=0e75b6&style=flat" alt="sudha28-05-2008" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudha28-05-2008" alt="sudha28-05-2008" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [VAPT PORTAL](https://github.com/Sudha28-05-2008)
 
 - 🌱 I’m currently learning **HTML,CSS,REACT JS,SQL**
