@@ -2,7 +2,7 @@
 <h3 align="center">A passionate about Competitive Programming from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudha28-05-2008&label=Profile%20views&color=0e75b6&style=flat" alt="sudha28-05-2008" /> </p>
-https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif
+![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif)  
 
 - 🌱 I’m currently learning **HTML,CSS,REACT JS,SQL**
 
